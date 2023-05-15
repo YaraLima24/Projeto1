@@ -1,0 +1,12 @@
+.d-flex input{ 
+    width: 649px;
+}
+
+.card-group{
+    margin: 50px;
+}
+
+.card-body a{
+    text-decoration: none;
+    color: black;
+}
